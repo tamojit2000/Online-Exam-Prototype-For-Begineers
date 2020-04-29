@@ -1,0 +1,24 @@
+this runs on pc
+
+
+a sample question with answer is loaded.
+
+you can load more by writing or copy paste in question_template for more question and in answer_template for answer.
+note question answer should be in same order.
+then click on prepare_question paper and Answer_paper
+once loaded you can delete only the content of the templates for safety but not the files of templates.
+main_file is the main program file.
+instructions are set in there.
+
+you should keep 1> main_file
+		2> templates
+		3>prepare files 
+
+		all  safe.
+
+
+run in exe mode as its all compiled.
+play in full window.
+
+
+.....tamojit......
